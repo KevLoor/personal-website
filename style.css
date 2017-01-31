@@ -1,0 +1,56 @@
+body {
+  background: url("images/footer_lodyas.png");
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  font-size: 40pt;
+  color: white;
+}
+
+.img{
+  background-color: rgb(233, 231, 6);
+  margin-right: 30px;
+  padding: 8px;
+  float: left;
+}
+
+.starters{
+  margin-left:10px
+}
+
+.therest{
+  text-align: center;
+  margin-left: 300px;
+  width: 1000px;
+}
+
+h2{
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  font-size: 30pt;
+  background-color: rgba(0, 185, 7, 0.68);
+}
+
+.text1{
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  font-size: 18pt;
+  padding-bottom: 12px;
+}
+
+.text2{
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  font-size: 18pt;
+}
+
+
+ul{
+  color: white;
+}
+a{
+  color: yellow;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16pt;
+}
